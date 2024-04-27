@@ -66,14 +66,72 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable**
+# Developed by: karthikeyan P
+# register no: 212223230102
+# program:
+![Screenshot 2024-04-10 141736](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/fdb2f0e6-5138-4cc9-87fc-40d7ba0cc7b2)
+# Logic symbol & Truthtable
+![image](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/182e38e2-2b37-402a-8da5-28dc48bc319a)
+# RTL
+![Screenshot 2024-04-10 141851](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/667905fe-5ffe-4c35-a2d6-f162d46d3022)
+# RTL realization Output:
+![image](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/ace37a81-3ea9-49c4-ac84-27b5cb4d3c4c)
 
-**RTL realization Output:** 
+# OR GATE:
+# program:
+![image](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/f7954905-de5f-4c1d-a75b-49d213919c7c)
+# Logic symbol & Truthtable:
+![image](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/c9a08cd3-4d07-49d5-921d-5f08dc7fde53)
+# RTL:
+![Screenshot 2024-04-10 142121](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/63813683-0b1d-4f62-8531-bb82cadb9c1e)
+# RTL realization Output:
+![Screenshot 2024-04-10 142233](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/d5674ac5-af12-4fe2-b4ea-5313b97c0c49)
+# NOT GATE:
+# program:
+![image](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/de1bb364-037c-473e-956b-48f1e94dfe5b)
+# Logic symbol & Truthtable:
+![image](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/a39d756f-2484-407f-ae30-f3f975875fb8)
+# RTL:
+![Screenshot 2024-04-10 142423](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/0ad19585-67c7-4078-8d29-c9d5ee269f27)
 
-**RTL**
+# RTL realization Output:
+![Screenshot 2024-04-10 142456](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/14acd4b8-b3f2-4547-a1c1-d5e17489c5f6)
+# NAND GATE:
+# program:
+![image](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/adf3d34c-d981-47c6-9e2f-de8622be50a4)
+# Logic symbol & Truthtable:
+![image](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/cbed160f-a538-4334-8d46-21408173b663)
+# RTL:
+![Screenshot 2024-04-10 143651](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/4ce4cded-8fda-41a7-8ce1-f85b5b9d5d47)
 
-**Result:**
-
-
+# RTL realization Output:
+![Screenshot 2024-04-10 142754](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/fe613b4a-0e90-4f44-8747-91f1d7946e81)
+# NOR GATE:
+# program:
+![Screenshot 2024-04-10 142915](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/a3f0e437-c54a-406f-bc49-8234f334b9a9)
+# Logic symbol & Truthtable:
+![image](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/6a3e27f1-da61-46b8-a520-321101b4badf)
+# RTL:
+![Screenshot 2024-04-10 143007](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/86b3b67d-0778-496f-9479-c6c89ac37159)
+# RTL realization Output:
+![Screenshot 2024-04-10 143015](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/c998769d-9113-415c-b887-440c2cb1b21b)
+# EX-OR GATE:
+# program :
+![Screenshot 2024-04-10 143115](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/2bd5aab3-bd67-410c-b062-296ba8228c6f)
+# Logic symbol & Truthtable:
+![image](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/ee327dc3-8746-47dc-aef0-6de4ca243d0f)
+# RTL:
+![Screenshot 2024-04-10 143209](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/bac6e6a5-b6ba-4bdc-a731-61ad6e585c51)
+# RTL realization Output:
+![Screenshot 2024-04-10 143259](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/b59e30e5-d04e-401e-b19e-90a0be282ff0)
+# EX-NOR:
+# program:
+![Screenshot 2024-04-10 143347](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/80eb5def-bf3b-4cbc-a7e4-80c4f0733742)
+# Logic symbol & Truthtable:
+![image](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/79428538-536e-4783-9eab-b3f951adb87d)
+# RTL:
+![Screenshot 2024-04-10 143442](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/daed8ac5-0055-41fa-9ebb-3e701350f7c7)
+# RTL realization Output:
+![Screenshot 2024-04-10 143525](https://github.com/Rsriram13/study-of-basic-gates/assets/145742823/5d05192d-d1f0-4408-afea-b94a0a0cd949)
+# Result:
+Thus,truth table of logic gates in Quartus II using Verilog programming is executed successfully and verified
